@@ -1,0 +1,16 @@
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.exe
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.deps.json
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.runtimeconfig.json
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.runtimeconfig.dev.json
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.dll
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\ref\EMPRESA_1.dll
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\bin\Debug\net5.0\EMPRESA_1.pdb
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.csproj.AssemblyReference.cache
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.AssemblyInfoInputs.cache
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.AssemblyInfo.cs
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.csproj.CoreCompileInputs.cache
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.dll
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\ref\EMPRESA_1.dll
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.pdb
+C:\Users\hulds\source\repos\EMPRESA_1\EMPRESA_1\obj\Debug\net5.0\EMPRESA_1.genruntimeconfig.cache
