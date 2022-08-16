@@ -1,0 +1,16 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\ref\color-motodo-abstrato.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\bin\Debug\net5.0\color-motodo-abstrato.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\ref\color-motodo-abstrato.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\m\csharp\color-motodo-abstrato\color-motodo-abstrato\obj\Debug\net5.0\color-motodo-abstrato.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj": {}
+    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\color-motodo-abstrato\\color-motodo-abstrato\\color-motodo-abstrato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj": {
+    "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\color-motodo-abstrato\\color-motodo-abstrato\\color-motodo-abstrato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj",
-        "projectName": "exercicioHerancaPolimorfismo",
-        "projectPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\color-motodo-abstrato\\color-motodo-abstrato\\color-motodo-abstrato.csproj",
+        "projectName": "color-motodo-abstrato",
+        "projectPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\color-motodo-abstrato\\color-motodo-abstrato\\color-motodo-abstrato.csproj",
         "packagesPath": "C:\\Users\\hulds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\color-motodo-abstrato\\color-motodo-abstrato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

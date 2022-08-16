@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace exercicioHerancaPolimorfismo
 {
-    class curso
+    abstract class curso
     {
         public string nome { get; set; }
         public double valor { get; set; }
