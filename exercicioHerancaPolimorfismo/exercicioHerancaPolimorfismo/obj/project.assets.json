@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\EMPRESA_1\\EMPRESA_1\\EMPRESA_1.csproj",
-      "projectName": "EMPRESA_1",
-      "projectPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\EMPRESA_1\\EMPRESA_1\\EMPRESA_1.csproj",
+      "projectUniqueName": "C:\\Users\\hulds\\source\\repos\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj",
+      "projectName": "exercicioHerancaPolimorfismo",
+      "projectPath": "C:\\Users\\hulds\\source\\repos\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo.csproj",
       "packagesPath": "C:\\Users\\hulds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hulds\\OneDrive\\Área de Trabalho\\m\\csharp\\EMPRESA_1\\EMPRESA_1\\obj\\",
+      "outputPath": "C:\\Users\\hulds\\source\\repos\\exercicioHerancaPolimorfismo\\exercicioHerancaPolimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

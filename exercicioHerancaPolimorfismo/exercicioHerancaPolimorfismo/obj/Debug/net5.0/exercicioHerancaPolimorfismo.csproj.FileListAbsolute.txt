@@ -1,0 +1,16 @@
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.exe
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.deps.json
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.runtimeconfig.json
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.dll
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\ref\exercicioHerancaPolimorfismo.dll
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\bin\Debug\net5.0\exercicioHerancaPolimorfismo.pdb
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.dll
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\ref\exercicioHerancaPolimorfismo.dll
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.pdb
+C:\Users\hulds\source\repos\exercicioHerancaPolimorfismo\exercicioHerancaPolimorfismo\obj\Debug\net5.0\exercicioHerancaPolimorfismo.genruntimeconfig.cache
